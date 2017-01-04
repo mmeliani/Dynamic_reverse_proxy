@@ -1,0 +1,15 @@
+{
+  "name": "students",
+  "version": "0.1.0",
+  "description": "jsut for demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marouane",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.0.4",
+    "express": "^4.14.0"
+  }
+}
